@@ -1,6 +1,4 @@
-[![Crowdin](https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=Crowdin&logoColor=white)](https://crowdin.com/profile/Dzenan)  
-
-[![Ko-Fi](https://img.shields.io/badge/Buy_Me_A_Coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Dzenan)
+[![Crowdin](https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=Crowdin&logoColor=white)](https://crowdin.com/profile/Dzenan) [![Ko-Fi](https://img.shields.io/badge/Buy_Me_A_Coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Dzenan)
 
 <!--
 
